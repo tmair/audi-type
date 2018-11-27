@@ -23,9 +23,6 @@
     "gulp-util": "^3.0.7"
   },
   "scripts": {},
-  "engines": {
-    "node": "^6.0.0"
-  },
   "bugs": {
     "url": "https://github.com/audi/audi-type/issues"
   },
